@@ -1,6 +1,6 @@
 ---
 layout: layout-homepage.njk
-title: Homepage
+title: NYS Captiol Tour Registration
 ---
 
 Something for a homepage

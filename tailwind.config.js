@@ -22,7 +22,10 @@ module.exports = {
         'ny-links': '#007ac2',
         'ny-dark': '#62666a',
         'ny-mid': '#d0d0ce',
-        'ny-light': '#ededed'
+        'ny-light': '#ededed',
+        'nys-first': '#24387e',
+        'nys-second': '#128EC3',
+        'nys-third': '#e8edee'
       }
     }
   },
